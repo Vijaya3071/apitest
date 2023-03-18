@@ -1,0 +1,64 @@
+{"songs":[
+  {
+    "song_Title":"Mastaru Mastaru",
+    "singer":"Shweta Mohan",
+    "img_src":"./images/sir.jpg",
+    "song_src":"./music/Mastaaru Mastaaru.mp3"
+  },
+  {
+    "song_Title":"Bheemla Nayak",
+    "singer":"Thaman S",
+    "img_src":"./images/Bheemla-Nayak.jpg",
+    "song_src":"./music/Bheemla Nayak.mp3"
+
+  },
+  {
+    "song_Title":"Avunanavaa",
+    "singer":"Sid Sriram",
+    "img_src":"./images/Ori-Devuda.jpg",
+    "song_src":"./music/Avunanavaa.mp3"
+
+  },{
+    "song_Title":"Inkem Kaavaale",
+    "singer":"Sid Sriram",
+    "img_src":"./images/Geetha-Govindam.jpg",
+    "song_src":"./music/Inkem Inkem Inkem Kaavaale - SenSongsMp3.Co.mp3"
+
+  },{
+    "song_Title":"Nattu Nattu",
+    "singer":"Rahul Sipligunj",
+    "img_src":"./images/RRR.jpg",
+    "song_src":"./music/Nattu Nattu.mp3"
+
+  },{
+    "song_Title":"Amma Song",
+    "singer":"Sid Sriram",
+    "img_src":"./images/Oke-Oka-Jeevitham.jpg",
+    "song_src":"./music/Amma.mp3"
+
+  },{
+    "song_Title":"Hare Rama",
+    "singer":"Shankar Mahadevan",
+    "img_src":"./images/Okkadu.jpg",
+    "song_src":"./music/Hare Rama-SenSongsMp3.Co.mp3"
+
+  },{
+    "song_Title":"Pranaamam",
+    "singer":"Shankar Mahadevan",
+    "img_src":"./images/Jantha-Garage.jpg",
+    "song_src":"./music/Pranaamam  - SenSongsMp3.Co.mp3"
+
+  },{
+    "song_Title":"Nee Prashnalu",
+    "singer":"S.P.Balasubramanyam",
+    "img_src":"./images/Kotta-Bangaru-Lokam.jpg",
+    "song_src":"./music/06 - Nee Prashnalu  - SenSongsMp3.co.mp3"
+
+  },{
+    "song_Title":"Mari Anthaga",
+    "singer":" Sreerama Chandra",
+    "img_src":"./images/Seethamma-Vakitlo-Sirimalle-Chettu.jpg",
+    "song_src":"./music/Mari Antaga-SenSongsMp3.Co.mp3"
+
+  }]
+}
